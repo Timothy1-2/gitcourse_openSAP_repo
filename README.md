@@ -1,2 +1,2 @@
 # gitcourse_openSAP_repo
-Main repository for Git course demos.
+Main repository for [openSAP](http://opensap.com) Git course demos.
